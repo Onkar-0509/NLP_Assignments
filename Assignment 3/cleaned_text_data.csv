@@ -1,0 +1,4 @@
+text,label,clean_text,label_encoded
+I love Natural Language Processing!,positive,love natural language processing,1
+NLP is fun and very powerful.,positive,nlp fun powerful,1
+I hate boring lectures.,negative,hate boring lecture,0
